@@ -1,7 +1,7 @@
 
 ## About Royal
-5
-Royal caompany website .
+
+Royal company website .
 
 ## Version
 
@@ -29,6 +29,6 @@ laravel 7 - Bootstrap 4
 
 - PHP >= 7.2.0
 
-License
+## License
 
 Code released under the MIT license
